@@ -1,6 +1,6 @@
-if ("a" === "twitchname") {
+if("a" === "twitchname") {
       var outcome = "if block";
-} else {
+} else{
       var outcome = "else block";
 }
 outcome;
