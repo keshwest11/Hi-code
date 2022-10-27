@@ -1,3 +1,6 @@
-if (a == "TwitchName"){"Custom greeting for relevant user"}
-else if (a == "OtherTwitchName"){"Other custom greeting for relevant user"}
-else {"Generic greeting"}
+if ("a" === "twitchname") {
+      var outcome = "if block";
+} else {
+      var outcome = "else block";
+}
+outcome;
